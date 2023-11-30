@@ -1,5 +1,12 @@
 # Table of contents
 
 * [方法](README.md)
-  * [滞納してるクレジットカードの支払いと税金から逃げ切る方法](fang-fa/shiterukurejittokdonoitokarageru.md)
-  * [Page 2](fang-fa/page-2.md)
+  * [おすすめ](how-to/osusume.md)
+
+## 発達障害 <a href="#hattatsu" id="hattatsu"></a>
+
+* [ADHD](hattatsu/adhd.md)
+
+## 投資 <a href="#toushi" id="toushi"></a>
+
+* [FX](toushi/fx.md)
