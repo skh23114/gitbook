@@ -9,15 +9,3 @@ description: ADHD
 * [不注意優位型のADHDって診断されたけど、質問ある？](https://kininaru-shufu.com/%E4%B8%8D%E6%B3%A8%E6%84%8F%E5%84%AA%E4%BD%8D%E5%9E%8B%E3%81%AEadhd%E3%81%A3%E3%81%A6%E8%A8%BA%E6%96%AD%E3%81%95%E3%82%8C%E3%81%9F%E3%81%91%E3%81%A9%E3%80%81%E8%B3%AA%E5%95%8F%E3%81%82%E3%82%8B/)
 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5743855699933635"
-     crossorigin="anonymous"></script>
-<!-- kininaru-shufu_Responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5743855699933635"
-     data-ad-slot="7515317573"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
